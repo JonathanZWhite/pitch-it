@@ -12,9 +12,9 @@
  * The dependencies block here is also where component dependencies should be
  * specified, as shown below.
  */
-angular.module( 'ngBoilerplate.home', [
+angular.module( 'pitch-it.home', [
   'ui.router',
-  'plusOne'
+  'displayCard'
 ])
 
 /**
